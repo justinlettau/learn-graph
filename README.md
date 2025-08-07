@@ -1,6 +1,9 @@
 [![CI](https://github.com/justinlettau/graph/actions/workflows/ci.yml/badge.svg)](https://github.com/justinlettau/graph/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/justinlettau/graph/branch/master/graph/badge.svg)](https://codecov.io/gh/justinlettau/graph)
 
+> [!IMPORTANT]
+> Only intended as an exercise for learning.
+
 # Graph
 
 A simple implementation of directed and undirected graphs + common graph algorithms.
